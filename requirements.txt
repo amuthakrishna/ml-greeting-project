@@ -1,0 +1,6 @@
+pandas
+dvc
+dvc-s3
+numpy
+joblib
+mlflow
