@@ -4,3 +4,5 @@ dvc-s3
 numpy
 joblib
 mlflow
+apache-airflow
+scikit-learn
